@@ -55,15 +55,19 @@
                                 </div>
                             </div> <!-- End off accordion item-2 -->
 
-                            <h6> <i class="fa fa-angle-right"></i> Alamat </h6>
+                            <h6> <i class="fa fa-angle-right"></i> Fasilitas </h6>
                             <div>
                                 <div class="content">
                                     <p align="justify">
-                                        Komplek Lubuk Gading Permai V No B/32
-                                        Kel Batang Kabung Ganting Kec. Koto Tangah Kota Padang Sumatera Barat. <br>
-                                        Tlp :0751 - 4851242
-                                        Hp : 0811 6656 785 <br>
-                                        E-mail : kyaramulti@gmail.com
+                                        <ol>
+                                            <li>Ijazah Satpam Gada Pratama dari Polda Sumbar</li>
+                                            <li>Kartu Tanda Anggota (KTA)</li>
+                                            <li>Pin Gada Pratama</li>
+                                            <li>Kaos Latsar</li>
+                                            <li>Materi Pembelajaran & ATK</li>
+                                            <li>Konsumsi dan Penginapan Selama Pendidikan</li>
+                                            <li>Buku Kenangan</li>
+                                        </ol>
                                     </p>
                                 </div>
                             </div> <!-- End off accordion item-3 -->
